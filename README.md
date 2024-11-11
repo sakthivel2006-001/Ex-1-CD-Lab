@@ -1,5 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-
+# NAME :SAKHIVEL
+# REGISTER NO:212223220090
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
